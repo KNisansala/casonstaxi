@@ -192,7 +192,10 @@
                         <div class="col-md-4 col-sm-6 swiper-slide">
                             <div class="inner matchHeight">
                                 <div class="text">
+
+                                  
                                     <p>Nullam orci dui, dictum et magna sollicitudin, tempor blandit erat. Maecenas suscipit tellus sit amet augue placerat fringilla a id lacus. Fusce tincidunt in leo lacinia condimentum.</p>
+
                                 </div>
                                 <div class="quote">
                                     <span class="fa fa-quote-left"></span>
